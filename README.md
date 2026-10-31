@@ -14,7 +14,7 @@
 
 </div>
 
-![LibreChat project poster](poster.svg)
+![LibreChat project poster](github-preview.png)
 
 ## Overview
 
@@ -73,7 +73,7 @@ flowchart TD
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LibreChat.git
+git clone https://github.com/moeinalva/LibreChat.git
 cd LibreChat
 python -m venv .venv
 ```
