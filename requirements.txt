@@ -1,0 +1,16 @@
+# Unpinned learning dependencies: tested versions should be locked before reproducible release.
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-cohere
+langchain-chroma
+cohere
+chromadb
+requests
+beautifulsoup4
+pypdfium2
+wikipedia
+lxml
+python-dotenv
+notebook
