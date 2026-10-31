@@ -14,7 +14,7 @@
 
 </div>
 
-![LibreChat project poster](assets/poster.svg)
+![LibreChat project poster](poster.svg)
 
 ## Overview
 
@@ -164,9 +164,7 @@ LibreChat/
 
 This repository does not redistribute third-party books or downloaded articles. Respect document licenses, source attribution, and website access policies before collecting or publishing content.
 
-## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines. Suggestions and issue reports are welcome.
 
 ## License
 
